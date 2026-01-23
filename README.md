@@ -30,3 +30,17 @@ overwokring. That can lead to drop of quality, or time spent evaluating each tic
 Overall creating, cleaning, and the analysis of this database has allowed for 
 useful insights into what upgrades or evaluations this company can make based off of this sample data. As well as utitlizing tools like Power BI and Tableau 
 to put this data into context and create visuals to then present on a dashboard. 
+
+
+
+<img width="1440" height="825" alt="Screenshot 2026-01-23 at 11 10 03" src="https://github.com/user-attachments/assets/6fc5d2af-d60b-4a8e-8661-703557c7dd08" />
+
+
+
+
+
+
+
+
+
+
